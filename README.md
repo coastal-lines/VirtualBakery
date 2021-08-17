@@ -1,3 +1,8 @@
-# VirtualBakery
-
-This is one-page project for demonstration work of AT tools
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <h3>Virtual Bakery</h3>
+  </head>
+  <body>
+  </body>
+</html>
